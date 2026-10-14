@@ -1,0 +1,12 @@
+language: en-US
+reviews:
+  profile: chill
+  auto_review:
+    enabled: true
+  review_details: true
+knowledge_base:
+  code_guidelines:
+    filePatterns:
+      - AGENTS.md
+      - docs/**/*.md
+
